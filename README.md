@@ -1,6 +1,7 @@
 
 1. Склонировать репозиторий
-2. Скачать проект себе на пк через терминал git clone https://github.com/Maksym-Svyrydov/<your repo name>
+2. Скачать проект себе на пк через терминал 
+git clone https://github.com/Maksym-Svyrydov/<your repo name>
 3. Изменить в настройках репозитория: 
 Actions => General => Workflow permissions: установить чек бокс на Read and Write permissions, 
 установить чек бокс на Allow GitHub Actions to create and approve pull request
